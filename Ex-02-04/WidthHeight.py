@@ -1,4 +1,4 @@
-width = "17"
+width = "13"
 
 height = "12.0"
 
