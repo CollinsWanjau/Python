@@ -2,9 +2,9 @@ width = "13"
 
 height = "12.0"
 
-width_Converted = int(width)
+height_Converted = float(height)
 
-width_calculated = width_Converted/2.0
+height_calculated =height_Converted/3
 
-print(width_calculated)
+print(height_calculated)
 
